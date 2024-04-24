@@ -1,4 +1,4 @@
-#Backlog
+Backlog
 
 | ID  | PRIO | EPIC        | USER STORY                                 | COS (Criteria of Satisfaction)  | EFFORT |
 | --- | ---- | ----------- | ------------------------------------------ | ------------------------------- | ------ |
