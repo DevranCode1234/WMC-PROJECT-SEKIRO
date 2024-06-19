@@ -8,5 +8,5 @@ Backlog
 | Sek-04 | 4 | Functions of the website | As a Gamer, I also want the most important information about the charakter in the game on the website. | First of all, get all the important information about the game and summarize everything that anyone would easily understand. | 2 |
 | Sek-05 | 5 |  Functions of the website | As a Gamer, I want everything to be clear so that it doesn't become too complex for non-gamer people. | I will design the website so that even a small child can use it and know its way around perfectly. | 6 |
 | Sek-06 | 6 | Functions of the website | As a Gamer i would also like to learn the gameplay and mechanics of the game. | Im gonna explain the game mechanics and how to play it on different devices. Add some pictures of the main and side charakters. Explain the boss figths and write some cheating skills for the boss fight. | 5 |
-| Sek-07 | 7 | Functions of the website |  |  |
-| Sek-08 | 8 | Functions of the website |  |  |
+| Sek-07 | 7 | Functions of the website with Javascript |  |  |  |
+| Sek-08 | 8 | Functions of the website with Javascript |  |  |  |
