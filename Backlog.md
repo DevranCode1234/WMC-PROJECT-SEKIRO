@@ -7,5 +7,7 @@ Backlog
 | Sek-03 | 3 | Functions of the website | As a gamer, I would be happy to hear sounds from the game and the theme music. I would also be happy to see some animated pictures | Divide the website into subpages and provide more information about the game. Game theme music should be playing in the background when you enter the website. |  |
 | Sek-04 | 4 | Functions of the website | As a gamer, I also want the most important information about the charakter in the game on the website. | First of all, get all the important information about the game and summarize everything that anyone would easily understand. |
 | Sek-05 | 5 |  Functions of the website | As a gamer, I want everything to be clear so that it doesn't become too complex for non-gamer people. |  |
-| Sek-06 | 6 | As a Gamer i would also like to learn the gameplay and mechanics of the game. | Im gonna explain the game mechanics and how to play it on different devices. Add some pictures of the main and side charakters. Explain the boss figths and write some cheating skills for the boss fight. |  |
+| Sek-06 | 6 | Functions of the website | As a Gamer i would also like to learn the gameplay and mechanics of the game. |  |
 | Sek-07 | 7 |  |  |  |
+
+Im gonna explain the game mechanics and how to play it on different devices. Add some pictures of the main and side charakters. Explain the boss figths and write some cheating skills for the boss fight.
